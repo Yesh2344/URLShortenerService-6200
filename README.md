@@ -44,3 +44,5 @@ Last updated: v2.8.0
 - v3.7.7: Performance improvements
 
 > Note: Updated in v3.6.8
+
+> Note: Updated in v6.8.9
