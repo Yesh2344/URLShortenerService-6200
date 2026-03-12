@@ -34,6 +34,7 @@ shorten_url() {
   local url=$1
   local short_url=$(generate_short_url $url)
   echo "Short URL: $short_url"
+# Updated - v3.1.3
 }
 
 # Resolve a shortened URL
