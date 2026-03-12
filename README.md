@@ -42,3 +42,5 @@ Last updated: v2.8.0
 
 ## Changelog
 - v3.7.7: Performance improvements
+
+> Note: Updated in v3.6.8
