@@ -32,3 +32,5 @@ The URL Shortener Service provides a RESTful API with the following endpoints:
 ## Testing
 To test the URL Shortener Service, you can use the following command:
 - `bash test.sh`
+---
+Last updated: v2.8.0
