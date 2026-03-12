@@ -34,3 +34,6 @@ To test the URL Shortener Service, you can use the following command:
 - `bash test.sh`
 ---
 Last updated: v2.8.0
+
+## Changelog
+- v7.3.1: Performance improvements
